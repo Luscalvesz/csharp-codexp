@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\salario minimo\bin\Debug\netcoreapp2.2\salario minimo.deps.json
+C:\Users\fic\Desktop\Csharp\salario minimo\bin\Debug\netcoreapp2.2\salario minimo.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\salario minimo\bin\Debug\netcoreapp2.2\salario minimo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\salario minimo\bin\Debug\netcoreapp2.2\salario minimo.dll
+C:\Users\fic\Desktop\Csharp\salario minimo\bin\Debug\netcoreapp2.2\salario minimo.pdb
+C:\Users\fic\Desktop\Csharp\salario minimo\obj\Debug\netcoreapp2.2\salario minimo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\salario minimo\obj\Debug\netcoreapp2.2\salario minimo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\salario minimo\obj\Debug\netcoreapp2.2\salario minimo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\salario minimo\obj\Debug\netcoreapp2.2\salario minimo.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\salario minimo\obj\Debug\netcoreapp2.2\salario minimo.dll
+C:\Users\fic\Desktop\Csharp\salario minimo\obj\Debug\netcoreapp2.2\salario minimo.pdb

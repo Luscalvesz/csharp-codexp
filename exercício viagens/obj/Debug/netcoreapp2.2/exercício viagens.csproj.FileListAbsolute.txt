@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\exercício viagens\obj\Debug\netcoreapp2.2\exercício viagens.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\exercício viagens\obj\Debug\netcoreapp2.2\exercício viagens.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\exercício viagens\obj\Debug\netcoreapp2.2\exercício viagens.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\exercício viagens\obj\Debug\netcoreapp2.2\exercício viagens.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\exercício viagens\bin\Debug\netcoreapp2.2\exercício viagens.deps.json
+C:\Users\fic\Desktop\Csharp\exercício viagens\bin\Debug\netcoreapp2.2\exercício viagens.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\exercício viagens\bin\Debug\netcoreapp2.2\exercício viagens.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\exercício viagens\bin\Debug\netcoreapp2.2\exercício viagens.dll
+C:\Users\fic\Desktop\Csharp\exercício viagens\bin\Debug\netcoreapp2.2\exercício viagens.pdb
+C:\Users\fic\Desktop\Csharp\exercício viagens\obj\Debug\netcoreapp2.2\exercício viagens.dll
+C:\Users\fic\Desktop\Csharp\exercício viagens\obj\Debug\netcoreapp2.2\exercício viagens.pdb

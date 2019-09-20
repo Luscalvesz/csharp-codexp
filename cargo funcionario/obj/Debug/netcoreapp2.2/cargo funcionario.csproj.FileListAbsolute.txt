@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\cargo funcionario\bin\Debug\netcoreapp2.2\cargo funcionario.deps.json
+C:\Users\fic\Desktop\Csharp\cargo funcionario\bin\Debug\netcoreapp2.2\cargo funcionario.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\cargo funcionario\bin\Debug\netcoreapp2.2\cargo funcionario.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\cargo funcionario\bin\Debug\netcoreapp2.2\cargo funcionario.dll
+C:\Users\fic\Desktop\Csharp\cargo funcionario\bin\Debug\netcoreapp2.2\cargo funcionario.pdb
+C:\Users\fic\Desktop\Csharp\cargo funcionario\obj\Debug\netcoreapp2.2\cargo funcionario.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\cargo funcionario\obj\Debug\netcoreapp2.2\cargo funcionario.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\cargo funcionario\obj\Debug\netcoreapp2.2\cargo funcionario.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\cargo funcionario\obj\Debug\netcoreapp2.2\cargo funcionario.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\cargo funcionario\obj\Debug\netcoreapp2.2\cargo funcionario.dll
+C:\Users\fic\Desktop\Csharp\cargo funcionario\obj\Debug\netcoreapp2.2\cargo funcionario.pdb

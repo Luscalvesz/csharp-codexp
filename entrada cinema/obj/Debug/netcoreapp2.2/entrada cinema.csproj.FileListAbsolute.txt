@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\entrada cinema\bin\Debug\netcoreapp2.2\entrada cinema.deps.json
+C:\Users\fic\Desktop\Csharp\entrada cinema\bin\Debug\netcoreapp2.2\entrada cinema.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\entrada cinema\bin\Debug\netcoreapp2.2\entrada cinema.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\entrada cinema\bin\Debug\netcoreapp2.2\entrada cinema.dll
+C:\Users\fic\Desktop\Csharp\entrada cinema\bin\Debug\netcoreapp2.2\entrada cinema.pdb
+C:\Users\fic\Desktop\Csharp\entrada cinema\obj\Debug\netcoreapp2.2\entrada cinema.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\entrada cinema\obj\Debug\netcoreapp2.2\entrada cinema.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\entrada cinema\obj\Debug\netcoreapp2.2\entrada cinema.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\entrada cinema\obj\Debug\netcoreapp2.2\entrada cinema.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\entrada cinema\obj\Debug\netcoreapp2.2\entrada cinema.dll
+C:\Users\fic\Desktop\Csharp\entrada cinema\obj\Debug\netcoreapp2.2\entrada cinema.pdb

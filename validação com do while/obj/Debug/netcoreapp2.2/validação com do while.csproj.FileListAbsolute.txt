@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\validação com do while\bin\Debug\netcoreapp2.2\validação com do while.deps.json
+C:\Users\fic\Desktop\Csharp\validação com do while\bin\Debug\netcoreapp2.2\validação com do while.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\validação com do while\bin\Debug\netcoreapp2.2\validação com do while.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\validação com do while\bin\Debug\netcoreapp2.2\validação com do while.dll
+C:\Users\fic\Desktop\Csharp\validação com do while\bin\Debug\netcoreapp2.2\validação com do while.pdb
+C:\Users\fic\Desktop\Csharp\validação com do while\obj\Debug\netcoreapp2.2\validação com do while.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\validação com do while\obj\Debug\netcoreapp2.2\validação com do while.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\validação com do while\obj\Debug\netcoreapp2.2\validação com do while.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\validação com do while\obj\Debug\netcoreapp2.2\validação com do while.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\validação com do while\obj\Debug\netcoreapp2.2\validação com do while.dll
+C:\Users\fic\Desktop\Csharp\validação com do while\obj\Debug\netcoreapp2.2\validação com do while.pdb

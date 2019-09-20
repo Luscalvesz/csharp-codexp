@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\laço while\bin\Debug\netcoreapp2.2\laço while.deps.json
+C:\Users\fic\Desktop\Csharp\laço while\bin\Debug\netcoreapp2.2\laço while.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\laço while\bin\Debug\netcoreapp2.2\laço while.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\laço while\bin\Debug\netcoreapp2.2\laço while.dll
+C:\Users\fic\Desktop\Csharp\laço while\bin\Debug\netcoreapp2.2\laço while.pdb
+C:\Users\fic\Desktop\Csharp\laço while\obj\Debug\netcoreapp2.2\laço while.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\laço while\obj\Debug\netcoreapp2.2\laço while.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\laço while\obj\Debug\netcoreapp2.2\laço while.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\laço while\obj\Debug\netcoreapp2.2\laço while.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\laço while\obj\Debug\netcoreapp2.2\laço while.dll
+C:\Users\fic\Desktop\Csharp\laço while\obj\Debug\netcoreapp2.2\laço while.pdb

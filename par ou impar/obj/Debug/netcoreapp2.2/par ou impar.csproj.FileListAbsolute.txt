@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\par ou impar\bin\Debug\netcoreapp2.2\par ou impar.deps.json
+C:\Users\fic\Desktop\Csharp\par ou impar\bin\Debug\netcoreapp2.2\par ou impar.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\par ou impar\bin\Debug\netcoreapp2.2\par ou impar.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\par ou impar\bin\Debug\netcoreapp2.2\par ou impar.dll
+C:\Users\fic\Desktop\Csharp\par ou impar\bin\Debug\netcoreapp2.2\par ou impar.pdb
+C:\Users\fic\Desktop\Csharp\par ou impar\obj\Debug\netcoreapp2.2\par ou impar.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\par ou impar\obj\Debug\netcoreapp2.2\par ou impar.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\par ou impar\obj\Debug\netcoreapp2.2\par ou impar.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\par ou impar\obj\Debug\netcoreapp2.2\par ou impar.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\par ou impar\obj\Debug\netcoreapp2.2\par ou impar.dll
+C:\Users\fic\Desktop\Csharp\par ou impar\obj\Debug\netcoreapp2.2\par ou impar.pdb
