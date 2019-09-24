@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\média de notas\obj\Debug\netcoreapp2.2\média de notas.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\média de notas\obj\Debug\netcoreapp2.2\média de notas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\média de notas\obj\Debug\netcoreapp2.2\média de notas.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\média de notas\obj\Debug\netcoreapp2.2\média de notas.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\média de notas\bin\Debug\netcoreapp2.2\média de notas.deps.json
+C:\Users\fic\Desktop\csharp-codexp\média de notas\bin\Debug\netcoreapp2.2\média de notas.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\média de notas\bin\Debug\netcoreapp2.2\média de notas.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\média de notas\bin\Debug\netcoreapp2.2\média de notas.dll
+C:\Users\fic\Desktop\csharp-codexp\média de notas\bin\Debug\netcoreapp2.2\média de notas.pdb
+C:\Users\fic\Desktop\csharp-codexp\média de notas\obj\Debug\netcoreapp2.2\média de notas.dll
+C:\Users\fic\Desktop\csharp-codexp\média de notas\obj\Debug\netcoreapp2.2\média de notas.pdb

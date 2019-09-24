@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\forEachExemplo\bin\Debug\netcoreapp2.2\forEachExemplo.deps.json
+C:\Users\fic\Desktop\csharp-codexp\forEachExemplo\bin\Debug\netcoreapp2.2\forEachExemplo.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\forEachExemplo\bin\Debug\netcoreapp2.2\forEachExemplo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\forEachExemplo\bin\Debug\netcoreapp2.2\forEachExemplo.dll
+C:\Users\fic\Desktop\csharp-codexp\forEachExemplo\bin\Debug\netcoreapp2.2\forEachExemplo.pdb
+C:\Users\fic\Desktop\csharp-codexp\forEachExemplo\obj\Debug\netcoreapp2.2\forEachExemplo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\forEachExemplo\obj\Debug\netcoreapp2.2\forEachExemplo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\forEachExemplo\obj\Debug\netcoreapp2.2\forEachExemplo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\forEachExemplo\obj\Debug\netcoreapp2.2\forEachExemplo.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\forEachExemplo\obj\Debug\netcoreapp2.2\forEachExemplo.dll
+C:\Users\fic\Desktop\csharp-codexp\forEachExemplo\obj\Debug\netcoreapp2.2\forEachExemplo.pdb

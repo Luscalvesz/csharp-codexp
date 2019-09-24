@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\tabuada com for\bin\Debug\netcoreapp2.2\tabuada com for.deps.json
+C:\Users\fic\Desktop\csharp-codexp\tabuada com for\bin\Debug\netcoreapp2.2\tabuada com for.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\tabuada com for\bin\Debug\netcoreapp2.2\tabuada com for.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\tabuada com for\bin\Debug\netcoreapp2.2\tabuada com for.dll
+C:\Users\fic\Desktop\csharp-codexp\tabuada com for\bin\Debug\netcoreapp2.2\tabuada com for.pdb
+C:\Users\fic\Desktop\csharp-codexp\tabuada com for\obj\Debug\netcoreapp2.2\tabuada com for.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\tabuada com for\obj\Debug\netcoreapp2.2\tabuada com for.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\tabuada com for\obj\Debug\netcoreapp2.2\tabuada com for.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\tabuada com for\obj\Debug\netcoreapp2.2\tabuada com for.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\tabuada com for\obj\Debug\netcoreapp2.2\tabuada com for.dll
+C:\Users\fic\Desktop\csharp-codexp\tabuada com for\obj\Debug\netcoreapp2.2\tabuada com for.pdb

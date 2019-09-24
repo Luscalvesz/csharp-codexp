@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\exercicio for\obj\Debug\netcoreapp2.2\exercicio for.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\exercicio for\obj\Debug\netcoreapp2.2\exercicio for.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\exercicio for\obj\Debug\netcoreapp2.2\exercicio for.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\exercicio for\obj\Debug\netcoreapp2.2\exercicio for.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\exercicio for\bin\Debug\netcoreapp2.2\exercicio for.deps.json
+C:\Users\fic\Desktop\csharp-codexp\exercicio for\bin\Debug\netcoreapp2.2\exercicio for.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\exercicio for\bin\Debug\netcoreapp2.2\exercicio for.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\exercicio for\bin\Debug\netcoreapp2.2\exercicio for.dll
+C:\Users\fic\Desktop\csharp-codexp\exercicio for\bin\Debug\netcoreapp2.2\exercicio for.pdb
+C:\Users\fic\Desktop\csharp-codexp\exercicio for\obj\Debug\netcoreapp2.2\exercicio for.dll
+C:\Users\fic\Desktop\csharp-codexp\exercicio for\obj\Debug\netcoreapp2.2\exercicio for.pdb

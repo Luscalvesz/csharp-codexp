@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\Exercício nota alunos\bin\Debug\netcoreapp2.2\Exercício nota alunos.deps.json
+C:\Users\fic\Desktop\csharp-codexp\Exercício nota alunos\bin\Debug\netcoreapp2.2\Exercício nota alunos.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\Exercício nota alunos\bin\Debug\netcoreapp2.2\Exercício nota alunos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\Exercício nota alunos\bin\Debug\netcoreapp2.2\Exercício nota alunos.dll
+C:\Users\fic\Desktop\csharp-codexp\Exercício nota alunos\bin\Debug\netcoreapp2.2\Exercício nota alunos.pdb
+C:\Users\fic\Desktop\csharp-codexp\Exercício nota alunos\obj\Debug\netcoreapp2.2\Exercício nota alunos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\Exercício nota alunos\obj\Debug\netcoreapp2.2\Exercício nota alunos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\Exercício nota alunos\obj\Debug\netcoreapp2.2\Exercício nota alunos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\Exercício nota alunos\obj\Debug\netcoreapp2.2\Exercício nota alunos.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\Exercício nota alunos\obj\Debug\netcoreapp2.2\Exercício nota alunos.dll
+C:\Users\fic\Desktop\csharp-codexp\Exercício nota alunos\obj\Debug\netcoreapp2.2\Exercício nota alunos.pdb
