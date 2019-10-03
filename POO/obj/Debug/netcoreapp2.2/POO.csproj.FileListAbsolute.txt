@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\POO\bin\Debug\netcoreapp2.2\POO.deps.json
+C:\Users\fic\Desktop\csharp-codexp\POO\bin\Debug\netcoreapp2.2\POO.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\POO\bin\Debug\netcoreapp2.2\POO.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\POO\bin\Debug\netcoreapp2.2\POO.dll
+C:\Users\fic\Desktop\csharp-codexp\POO\bin\Debug\netcoreapp2.2\POO.pdb
+C:\Users\fic\Desktop\csharp-codexp\POO\obj\Debug\netcoreapp2.2\POO.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\POO\obj\Debug\netcoreapp2.2\POO.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\POO\obj\Debug\netcoreapp2.2\POO.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\POO\obj\Debug\netcoreapp2.2\POO.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\POO\obj\Debug\netcoreapp2.2\POO.dll
+C:\Users\fic\Desktop\csharp-codexp\POO\obj\Debug\netcoreapp2.2\POO.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\adicionando objeto\obj\Debug\netcoreapp2.2\adicionando objeto.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\adicionando objeto\obj\Debug\netcoreapp2.2\adicionando objeto.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\adicionando objeto\obj\Debug\netcoreapp2.2\adicionando objeto.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\adicionando objeto\obj\Debug\netcoreapp2.2\adicionando objeto.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\adicionando objeto\bin\Debug\netcoreapp2.2\adicionando objeto.deps.json
+C:\Users\fic\Desktop\csharp-codexp\adicionando objeto\bin\Debug\netcoreapp2.2\adicionando objeto.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\adicionando objeto\bin\Debug\netcoreapp2.2\adicionando objeto.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\adicionando objeto\bin\Debug\netcoreapp2.2\adicionando objeto.dll
+C:\Users\fic\Desktop\csharp-codexp\adicionando objeto\bin\Debug\netcoreapp2.2\adicionando objeto.pdb
+C:\Users\fic\Desktop\csharp-codexp\adicionando objeto\obj\Debug\netcoreapp2.2\adicionando objeto.dll
+C:\Users\fic\Desktop\csharp-codexp\adicionando objeto\obj\Debug\netcoreapp2.2\adicionando objeto.pdb

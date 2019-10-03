@@ -18,9 +18,6 @@ namespace exercicio_for
             int mulher = 0;
             int idadeHomem = 0;
             int idadeMulher = 0;
-            double mediaHomem = 0;
-            double mediaMulher = 0;
-
 
             for (int i = 0; i < 2; i++)
             {

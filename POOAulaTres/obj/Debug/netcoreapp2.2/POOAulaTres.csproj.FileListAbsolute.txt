@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\POOAulaTres\bin\Debug\netcoreapp2.2\POOAulaTres.deps.json
+C:\Users\fic\Desktop\csharp-codexp\POOAulaTres\bin\Debug\netcoreapp2.2\POOAulaTres.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\POOAulaTres\bin\Debug\netcoreapp2.2\POOAulaTres.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\POOAulaTres\bin\Debug\netcoreapp2.2\POOAulaTres.dll
+C:\Users\fic\Desktop\csharp-codexp\POOAulaTres\bin\Debug\netcoreapp2.2\POOAulaTres.pdb
+C:\Users\fic\Desktop\csharp-codexp\POOAulaTres\obj\Debug\netcoreapp2.2\POOAulaTres.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\POOAulaTres\obj\Debug\netcoreapp2.2\POOAulaTres.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\POOAulaTres\obj\Debug\netcoreapp2.2\POOAulaTres.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\POOAulaTres\obj\Debug\netcoreapp2.2\POOAulaTres.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\POOAulaTres\obj\Debug\netcoreapp2.2\POOAulaTres.dll
+C:\Users\fic\Desktop\csharp-codexp\POOAulaTres\obj\Debug\netcoreapp2.2\POOAulaTres.pdb

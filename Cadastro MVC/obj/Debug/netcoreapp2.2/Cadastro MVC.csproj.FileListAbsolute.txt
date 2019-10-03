@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\Cadastro MVC\bin\Debug\netcoreapp2.2\Cadastro MVC.deps.json
+C:\Users\fic\Desktop\csharp-codexp\Cadastro MVC\bin\Debug\netcoreapp2.2\Cadastro MVC.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\Cadastro MVC\bin\Debug\netcoreapp2.2\Cadastro MVC.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\Cadastro MVC\bin\Debug\netcoreapp2.2\Cadastro MVC.dll
+C:\Users\fic\Desktop\csharp-codexp\Cadastro MVC\bin\Debug\netcoreapp2.2\Cadastro MVC.pdb
+C:\Users\fic\Desktop\csharp-codexp\Cadastro MVC\obj\Debug\netcoreapp2.2\Cadastro MVC.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\Cadastro MVC\obj\Debug\netcoreapp2.2\Cadastro MVC.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\Cadastro MVC\obj\Debug\netcoreapp2.2\Cadastro MVC.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\Cadastro MVC\obj\Debug\netcoreapp2.2\Cadastro MVC.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\Cadastro MVC\obj\Debug\netcoreapp2.2\Cadastro MVC.dll
+C:\Users\fic\Desktop\csharp-codexp\Cadastro MVC\obj\Debug\netcoreapp2.2\Cadastro MVC.pdb
